@@ -1,5 +1,8 @@
-# AniMix---Open-Location
-Blender Adddon that opens the location. This works within the **File Browser** and the **3D Viewport**
+# AniMix---File Management
+Blender Adddon to make file management a bit easier. The addon works with **File Browser** and the **3D Viewport** using right-click.
+WIP the idea is to extend the right-click menu add Edit Append Link Import and Export and so on.
+
+
 
 ***
 ### AniMix Hybrid Animation Addon. 
@@ -11,5 +14,8 @@ You can support the future of hybrid animation and its development by purchasing
 - AniMix community:  https://discord.gg/TpxMcpXVYX
 
 ### Demo of Addon
+
+https://github.com/adamearle/AniMix---Open-Location/assets/16330340/a96fabc4-0427-4d4d-9b37-5d5ab213e449
+
 
 
