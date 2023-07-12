@@ -1,4 +1,4 @@
-# AniMix---File Management
+# AniMix-File Management
 Blender Adddon to make file management a bit easier. The addon works with **File Browser** and the **3D Viewport** using right-click.
 WIP the idea is to extend the right-click menu add Edit Append Link Import and Export and so on.
 
